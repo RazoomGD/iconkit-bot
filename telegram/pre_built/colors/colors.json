@@ -1,0 +1,537 @@
+[
+  {
+    "id": 51,
+    "hex": "fdd4ce",
+    "file": "gd_color_51.png"
+  },
+  {
+    "id": 19,
+    "hex": "ff7d7d",
+    "file": "gd_color_19.png"
+  },
+  {
+    "id": 48,
+    "hex": "ff3a3a",
+    "file": "gd_color_48.png"
+  },
+  {
+    "id": 9,
+    "hex": "ff0000",
+    "file": "gd_color_9.png"
+  },
+  {
+    "id": 62,
+    "hex": "ffb972",
+    "file": "gd_color_62.png"
+  },
+  {
+    "id": 63,
+    "hex": "ffa040",
+    "file": "gd_color_63.png"
+  },
+  {
+    "id": 10,
+    "hex": "ff7d00",
+    "file": "gd_color_10.png"
+  },
+  {
+    "id": 29,
+    "hex": "ff4b00",
+    "file": "gd_color_29.png"
+  },
+  {
+    "id": 70,
+    "hex": "ffffc0",
+    "file": "gd_color_70.png"
+  },
+  {
+    "id": 42,
+    "hex": "fffa7f",
+    "file": "gd_color_42.png"
+  },
+  {
+    "id": 11,
+    "hex": "ffff00",
+    "file": "gd_color_11.png"
+  },
+  {
+    "id": 27,
+    "hex": "7d7d00",
+    "file": "gd_color_27.png"
+  },
+  {
+    "id": 72,
+    "hex": "c0ffa0",
+    "file": "gd_color_72.png"
+  },
+  {
+    "id": 73,
+    "hex": "b1ff6d",
+    "file": "gd_color_73.png"
+  },
+  {
+    "id": 0,
+    "hex": "7dff00",
+    "file": "gd_color_0.png"
+  },
+  {
+    "id": 1,
+    "hex": "00ff00",
+    "file": "gd_color_1.png"
+  },
+  {
+    "id": 37,
+    "hex": "960000",
+    "file": "gd_color_37.png"
+  },
+  {
+    "id": 53,
+    "hex": "700000",
+    "file": "gd_color_53.png"
+  },
+  {
+    "id": 54,
+    "hex": "520200",
+    "file": "gd_color_54.png"
+  },
+  {
+    "id": 55,
+    "hex": "380106",
+    "file": "gd_color_55.png"
+  },
+  {
+    "id": 26,
+    "hex": "af4b00",
+    "file": "gd_color_26.png"
+  },
+  {
+    "id": 59,
+    "hex": "a36246",
+    "file": "gd_color_59.png"
+  },
+  {
+    "id": 60,
+    "hex": "754936",
+    "file": "gd_color_60.png"
+  },
+  {
+    "id": 61,
+    "hex": "563528",
+    "file": "gd_color_61.png"
+  },
+  {
+    "id": 71,
+    "hex": "fde0a0",
+    "file": "gd_color_71.png"
+  },
+  {
+    "id": 14,
+    "hex": "ffb900",
+    "file": "gd_color_14.png"
+  },
+  {
+    "id": 31,
+    "hex": "966400",
+    "file": "gd_color_31.png"
+  },
+  {
+    "id": 45,
+    "hex": "50320e",
+    "file": "gd_color_45.png"
+  },
+  {
+    "id": 105,
+    "hex": "d2ff32",
+    "file": "gd_color_105.png"
+  },
+  {
+    "id": 28,
+    "hex": "4baf00",
+    "file": "gd_color_28.png"
+  },
+  {
+    "id": 32,
+    "hex": "649600",
+    "file": "gd_color_32.png"
+  },
+  {
+    "id": 20,
+    "hex": "00af4b",
+    "file": "gd_color_20.png"
+  },
+  {
+    "id": 25,
+    "hex": "af004b",
+    "file": "gd_color_25.png"
+  },
+  {
+    "id": 56,
+    "hex": "804f4f",
+    "file": "gd_color_56.png"
+  },
+  {
+    "id": 57,
+    "hex": "7a3535",
+    "file": "gd_color_57.png"
+  },
+  {
+    "id": 58,
+    "hex": "512424",
+    "file": "gd_color_58.png"
+  },
+  {
+    "id": 30,
+    "hex": "963200",
+    "file": "gd_color_30.png"
+  },
+  {
+    "id": 64,
+    "hex": "66311e",
+    "file": "gd_color_64.png"
+  },
+  {
+    "id": 65,
+    "hex": "5b2700",
+    "file": "gd_color_65.png"
+  },
+  {
+    "id": 66,
+    "hex": "472000",
+    "file": "gd_color_66.png"
+  },
+  {
+    "id": 46,
+    "hex": "cda576",
+    "file": "gd_color_46.png"
+  },
+  {
+    "id": 67,
+    "hex": "a77b4d",
+    "file": "gd_color_67.png"
+  },
+  {
+    "id": 68,
+    "hex": "6d5339",
+    "file": "gd_color_68.png"
+  },
+  {
+    "id": 69,
+    "hex": "513e2a",
+    "file": "gd_color_69.png"
+  },
+  {
+    "id": 2,
+    "hex": "00ff7d",
+    "file": "gd_color_2.png"
+  },
+  {
+    "id": 38,
+    "hex": "009600",
+    "file": "gd_color_38.png"
+  },
+  {
+    "id": 79,
+    "hex": "006000",
+    "file": "gd_color_79.png"
+  },
+  {
+    "id": 80,
+    "hex": "004000",
+    "file": "gd_color_80.png"
+  },
+  {
+    "id": 74,
+    "hex": "c0ffe0",
+    "file": "gd_color_74.png"
+  },
+  {
+    "id": 75,
+    "hex": "94ffe4",
+    "file": "gd_color_75.png"
+  },
+  {
+    "id": 44,
+    "hex": "00ffc0",
+    "file": "gd_color_44.png"
+  },
+  {
+    "id": 3,
+    "hex": "00ffff",
+    "file": "gd_color_3.png"
+  },
+  {
+    "id": 83,
+    "hex": "a0ffff",
+    "file": "gd_color_83.png"
+  },
+  {
+    "id": 16,
+    "hex": "00c8ff",
+    "file": "gd_color_16.png"
+  },
+  {
+    "id": 4,
+    "hex": "007dff",
+    "file": "gd_color_4.png"
+  },
+  {
+    "id": 5,
+    "hex": "0000ff",
+    "file": "gd_color_5.png"
+  },
+  {
+    "id": 52,
+    "hex": "beb5ff",
+    "file": "gd_color_52.png"
+  },
+  {
+    "id": 41,
+    "hex": "7d7dff",
+    "file": "gd_color_41.png"
+  },
+  {
+    "id": 6,
+    "hex": "7d00ff",
+    "file": "gd_color_6.png"
+  },
+  {
+    "id": 35,
+    "hex": "640096",
+    "file": "gd_color_35.png"
+  },
+  {
+    "id": 98,
+    "hex": "fcb5ff",
+    "file": "gd_color_98.png"
+  },
+  {
+    "id": 8,
+    "hex": "ff007d",
+    "file": "gd_color_8.png"
+  },
+  {
+    "id": 36,
+    "hex": "960064",
+    "file": "gd_color_36.png"
+  },
+  {
+    "id": 103,
+    "hex": "66033e",
+    "file": "gd_color_103.png"
+  },
+  {
+    "id": 40,
+    "hex": "7dffaf",
+    "file": "gd_color_40.png"
+  },
+  {
+    "id": 76,
+    "hex": "43a18a",
+    "file": "gd_color_76.png"
+  },
+  {
+    "id": 77,
+    "hex": "316d5f",
+    "file": "gd_color_77.png"
+  },
+  {
+    "id": 78,
+    "hex": "265449",
+    "file": "gd_color_78.png"
+  },
+  {
+    "id": 22,
+    "hex": "004baf",
+    "file": "gd_color_22.png"
+  },
+  {
+    "id": 39,
+    "hex": "000096",
+    "file": "gd_color_39.png"
+  },
+  {
+    "id": 84,
+    "hex": "010770",
+    "file": "gd_color_84.png"
+  },
+  {
+    "id": 50,
+    "hex": "000a4c",
+    "file": "gd_color_50.png"
+  },
+  {
+    "id": 47,
+    "hex": "b680ff",
+    "file": "gd_color_47.png"
+  },
+  {
+    "id": 23,
+    "hex": "4b00af",
+    "file": "gd_color_23.png"
+  },
+  {
+    "id": 92,
+    "hex": "3d068c",
+    "file": "gd_color_92.png"
+  },
+  {
+    "id": 93,
+    "hex": "370860",
+    "file": "gd_color_93.png"
+  },
+  {
+    "id": 7,
+    "hex": "ff00ff",
+    "file": "gd_color_7.png"
+  },
+  {
+    "id": 13,
+    "hex": "b900ff",
+    "file": "gd_color_13.png"
+  },
+  {
+    "id": 24,
+    "hex": "7d007d",
+    "file": "gd_color_24.png"
+  },
+  {
+    "id": 104,
+    "hex": "470134",
+    "file": "gd_color_104.png"
+  },
+  {
+    "id": 33,
+    "hex": "009664",
+    "file": "gd_color_33.png"
+  },
+  {
+    "id": 21,
+    "hex": "007d7d",
+    "file": "gd_color_21.png"
+  },
+  {
+    "id": 81,
+    "hex": "006060",
+    "file": "gd_color_81.png"
+  },
+  {
+    "id": 82,
+    "hex": "004040",
+    "file": "gd_color_82.png"
+  },
+  {
+    "id": 34,
+    "hex": "006496",
+    "file": "gd_color_34.png"
+  },
+  {
+    "id": 85,
+    "hex": "00496d",
+    "file": "gd_color_85.png"
+  },
+  {
+    "id": 86,
+    "hex": "00324c",
+    "file": "gd_color_86.png"
+  },
+  {
+    "id": 87,
+    "hex": "002638",
+    "file": "gd_color_87.png"
+  },
+  {
+    "id": 49,
+    "hex": "4d4d8f",
+    "file": "gd_color_49.png"
+  },
+  {
+    "id": 95,
+    "hex": "6f49a4",
+    "file": "gd_color_95.png"
+  },
+  {
+    "id": 96,
+    "hex": "54367f",
+    "file": "gd_color_96.png"
+  },
+  {
+    "id": 97,
+    "hex": "422a63",
+    "file": "gd_color_97.png"
+  },
+  {
+    "id": 43,
+    "hex": "fa7fff",
+    "file": "gd_color_43.png"
+  },
+  {
+    "id": 99,
+    "hex": "af57af",
+    "file": "gd_color_99.png"
+  },
+  {
+    "id": 100,
+    "hex": "824382",
+    "file": "gd_color_100.png"
+  },
+  {
+    "id": 101,
+    "hex": "5e315e",
+    "file": "gd_color_101.png"
+  },
+  {
+    "id": 106,
+    "hex": "76bdff",
+    "file": "gd_color_106.png"
+  },
+  {
+    "id": 88,
+    "hex": "5080ad",
+    "file": "gd_color_88.png"
+  },
+  {
+    "id": 89,
+    "hex": "335375",
+    "file": "gd_color_89.png"
+  },
+  {
+    "id": 90,
+    "hex": "233c56",
+    "file": "gd_color_90.png"
+  },
+  {
+    "id": 12,
+    "hex": "ffffff",
+    "file": "gd_color_12.png"
+  },
+  {
+    "id": 91,
+    "hex": "e0e0e0",
+    "file": "gd_color_91.png"
+  },
+  {
+    "id": 17,
+    "hex": "afafaf",
+    "file": "gd_color_17.png"
+  },
+  {
+    "id": 102,
+    "hex": "808080",
+    "file": "gd_color_102.png"
+  },
+  {
+    "id": 18,
+    "hex": "5a5a5a",
+    "file": "gd_color_18.png"
+  },
+  {
+    "id": 94,
+    "hex": "404040",
+    "file": "gd_color_94.png"
+  },
+  {
+    "id": 15,
+    "hex": "000000",
+    "file": "gd_color_15.png"
+  }
+]
