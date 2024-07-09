@@ -18,6 +18,9 @@ async def make_db_backup(message: Message):
 @router.message(F.chat.id == int(SUPPORT_GROUP_ID), F.reply_to_message)
 async def respond_to_user(message: Message, bot: Bot):
     if message.reply_to_message.forward_from:
+        await bot.send_message(message.reply_to_message.forward_from.id, f"<b>Вы получили ответ от службы поддержки:</b>\n{message.text}")
+        await message.reply("Текст сообщения отправлен пользователю")
+    elif message.reply_to_message.forward_from_chat:
         await bot.send_message(message.reply_to_message.forward_from_chat.id, f"<b>Вы получили ответ от службы поддержки:</b>\n{message.text}")
         await message.reply("Текст сообщения отправлен пользователю")
     elif "chat_id=" in message.reply_to_message.text:
